@@ -3,7 +3,7 @@ title: Christopher Blog
 author: Christopher bardales monja
 email: christopher.bardalesmonja@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
- Este es mi primer blog para esta pagina .
+ Este es mi primer blog para esta pagina - verficando .
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
